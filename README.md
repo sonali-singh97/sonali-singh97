@@ -26,17 +26,25 @@ Here are some ideas to get you started:
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/sonali-singh20/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sonali122000@gmail.com)](mailto:sonali122000@gmail.com) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sonalisingh.me)](https://sonalisingh.me) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sonali12_singh)](https://twitter.com/sonali12_singh)
 </p>
 
-### Stats:
-<div align="left">
 
-![profile visit](https://komarev.com/ghpvc/?username=sonali-singh97) 
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=sonali-singh97&show_icons=true&theme="onedark"&title_color=black&icon_color=black&text_color=white&bg_color=black)
+<h2>ℹ️ &nbsp;Github Info</h2>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonali-singh97&show_icons=true&locale=en&hide_border=true" alt="sonali-singh97" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonali-singh97&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="sonali-singh97"/>
+</details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonali-singh97&theme="buefy")](https://github.com/sonali-singh97/github-readme-stats)
+<details>
+ <summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sonali-singh97&" alt="sonali-singh97" /></p>
+</details>
 
-[![Sonali's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sonali-singh97&theme="buefy")](https://github.com/sonali-singh97/github-readme-streak-stats)
+<details>
+ <summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonali-singh97&margin-w=5" alt="sonali-singh97" /></a> </p>
+</details>
+
 
 
