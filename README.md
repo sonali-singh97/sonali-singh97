@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sonali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
+<h1 align="center"> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm Sonali  </h1>
 
 <!--
 **sonali-singh97/sonali-singh97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/sonali-singh20/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sonali122000@gmail.com)](mailto:sonali122000@gmail.com) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sonalisingh.me)](https://sonalisingh.me) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sonali12_singh)](https://twitter.com/sonali12_singh)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sonali-singh20/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:sonali122000@gmail.com)](mailto:sonali122000@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sonalisingh.me)](https://sonalisingh.me) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sonali12_singh)](https://twitter.com/sonali12_singh)
 </p>
 
 
