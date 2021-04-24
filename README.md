@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://sonalisingh.me"><img alt="Website" title="website" src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sonalisingh.me"/></a>
-  <a href="https://www.linkedin.com/in/simran2104/"><img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sonali-singh20/"/></a>
+  <a href="https://www.linkedin.com/in/sonali-singh20/"><img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sonali-singh20/"/></a>
   <a href="mailto:sonali122000@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:sonali122000@gmail.com"/></a>
   <a href="https://twitter.com/sonali12_singh"><img alt="twitter" title="twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sonali12_singh"/></a>
   <a href="https://www.codechef.com/users/sonali2000"><img alt="codechef" title="codechef" src="https://img.shields.io/badge/-codechef-935F31?style=flat&logo=codechef&logoColor=white"/></a>
