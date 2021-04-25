@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src = "https://i.vimeocdn.com/video/253024709.webp?mw=900&mh=508&q=70" width = "400" height = "300" align = "center">
-<!--   <a href="mailto:anneraj73@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
-  <a href="https://www.linkedin.com/in/annedeepa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 </p>
 
 <p align="center">
@@ -36,7 +34,7 @@ Here are some ideas to get you started:
 
 I am a Junior doing Computer Science engineering from UIET Kurukshetra  :classical_building:. I am passionate about Full Stack development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Design and Development, Database Management and Competitive Coding.
 I am a curious person who wants to explore every tech stack :bulb: .<br>
-My goal is to solve real life problems using technology and create an impact :sparkles:. I would love to hear about your project and big idea. 
+My goal is to solve real life problems using technology and create an impact :sparkles:.
 
 
 ### More about me:
@@ -46,6 +44,7 @@ My goal is to solve real life problems using technology and create an impact :sp
 - 🌐 &nbsp; Visit my [porfolio website](https://sonalisingh.me) for complete background and contact.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1hZeSzN4WLbxqzj4-SmppN1u6ss_tCeAy/view).
 - :ski: &nbsp; When not coding, I binge watch shows, listen to music or play badminton.
+- 🌱 &nbsp; Would love to hear about your project and big idea. 
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
@@ -68,7 +67,7 @@ My goal is to solve real life problems using technology and create an impact :sp
     [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://heroku.com)
     [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
     
-- OS & IDE & Tools : <br />
+- OS,IDE & Tools : <br />
     [![VS Code](http://img.shields.io/badge/-VS%20Code-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
     [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
     [![Figma](http://img.shields.io/badge/-Figma-4B275F?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
@@ -93,6 +92,11 @@ My goal is to solve real life problems using technology and create an impact :sp
  <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonali-singh97&margin-w=5" alt="sonali-singh97" /></a> </p>
 </details>
+ <hr>
+<p align="center">
+    <i>Take a look at my repositories and let's get in touch!</i><br><br>
+   <img alt="hackerrank" title="hackerrank" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
+</p>
 
 
 
