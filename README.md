@@ -47,12 +47,6 @@ My goal is to solve real life problems using technology and create an impact :sp
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1hZeSzN4WLbxqzj4-SmppN1u6ss_tCeAy/view).
 - :ski: &nbsp; When not coding, I binge watch shows, listen to music or play badminton.
 
-  <!--
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
-- -->
-
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="images/javascript.png" alt="javascript" width="40" height="40"/> </a>   
  <a href="https://reactjs.org/" target="_blank"> <img src="images/react.png" alt="react" width="50" height="50"/> </a>
