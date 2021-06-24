@@ -39,7 +39,7 @@ My goal is to solve real life problems using technology and create an impact :sp
 
 ### More about me:
 
-- 🔭 &nbsp; Currently playing around VueJS ecosystem.
+- 🔭 &nbsp; Currently learning about Containers and Docker.
 - 🤝 &nbsp; Open for collaborations in web development projects. 
 - 🌐 &nbsp; Visit my [porfolio website](https://sonalisingh.me) for complete background and contact.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1hZeSzN4WLbxqzj4-SmppN1u6ss_tCeAy/view).
