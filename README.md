@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <h2> :information_desk_person:&nbsp; About Me</h2>
 
-I am a Junior doing Computer Science engineering from UIET Kurukshetra  :classical_building:. I am passionate about Full Stack development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Design and Development, Database Management and Competitive Coding.
+I am a Senior doing Computer Science engineering from UIET Kurukshetra  :classical_building:. I am passionate about Full Stack development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Design and Development, Database Management and Competitive Coding.
 I am a curious person who wants to explore every tech stack :bulb: .<br>
 My goal is to solve real life problems using technology and create an impact :sparkles:.
 
