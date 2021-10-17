@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src = "https://i.vimeocdn.com/video/253024709.webp?mw=900&mh=508&q=70" width = "400" height = "300" align = "center">
+  <img src = "images/portfolio.gif"  height = "300" align = "center">
 </p>
 
 <p align="center">
