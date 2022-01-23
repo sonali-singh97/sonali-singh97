@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <a href="https://www.hackerrank.com/sonali122000"><img alt="hackerrank" title="hackerrank" src="https://img.shields.io/badge/-hackerrank-0ec950?style=flat&logo=hackerrank&logoColor=white"/></a>
 </p>
 
-<h2> :information_desk_person:&nbsp; About Me</h2>
+<h2> :tipping_hand_woman:&nbsp; About Me</h2>
 
 I am a Senior doing Computer Science engineering from UIET Kurukshetra  :classical_building:. I am passionate about Full Stack development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Design and Development, Database Management and Competitive Coding.
 I am a curious person who wants to explore every tech stack :bulb: .<br>
