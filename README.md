@@ -41,10 +41,11 @@ My goal is to solve real life problems using technology and create an impact :sp
 
 - 🔭 &nbsp; Currently learning about Cloud Computing and AWS.
 - 🤝 &nbsp; Open for collaborations in web development projects. 
-- 🌐 &nbsp; Visit my [porfolio website](https://portfolio-website-65383.web.app/) for complete background and contact.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1gzl841RZ_GbureEgVqy-jZ_rmkdM1nLv/view).
 - :ski: &nbsp; When not coding, I binge watch shows, listen to music or play badminton.
 - 🌱 &nbsp; Would love to hear about your project and big idea. 
+<!-- - 🌐 &nbsp; Visit my [porfolio website](https://portfolio-website-65383.web.app/) for complete background and contact.
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1gzl841RZ_GbureEgVqy-jZ_rmkdM1nLv/view). -->
+
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
