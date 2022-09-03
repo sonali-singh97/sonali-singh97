@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    <a href="https://sonalisingh.me"><img alt="Website" title="website" src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sonalisingh.me"/></a>
+  <!--  <a href="https://sonalisingh.me"><img alt="Website" title="website" src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sonalisingh.me"/></a> -->
+    <a href="https://www.linkedin.com/in/sonali-singh20/"><img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sonali-singh20/"/></a>
     <a href="https://medium.com/@sonali122000"><img alt="medium" title="medium" src="https://img.shields.io/badge/Medium-12100E?style=style=flat&logo=medium&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sonali-singh20/"><img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sonali-singh20/"/></a>
   <a href="mailto:sonali122000@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:sonali122000@gmail.com"/></a>
   <a href="https://twitter.com/sonali12_singh"><img alt="twitter" title="twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sonali12_singh"/></a>
 </p>
@@ -67,9 +67,8 @@ My goal is to solve real life problems using technology and create an impact :sp
     [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://heroku.com)
     [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
     
-- OS,IDE & Tools : <br />
+- IDE & Tools : <br />
     [![VS Code](http://img.shields.io/badge/-VS%20Code-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-    [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
     [![Figma](http://img.shields.io/badge/-Figma-4B275F?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
     [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
